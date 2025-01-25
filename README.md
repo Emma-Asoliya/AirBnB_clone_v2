@@ -141,4 +141,4 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 ```
 <br>
 
-I was able to fork this repo correctly.
+I was able to fork this repo correctly, and i updated the README
